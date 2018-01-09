@@ -1,0 +1,2 @@
+# I AM Robot StereoVision
+StereoVision is a vision processing program to get distance and angle from an object without the need for retroreflective tape. With 2 cameras and 3 class 1 lasers, StereoVision uses OpenCV and basic trigonometry to find distance by calculating the angle from each camera to the laser dot, and using those angles to find the length from the laser to the dot. 3 lasers are used to make the judge of distance more accurate, and to calculate angle of the object. StereoVision is untested in a competition scenario.
